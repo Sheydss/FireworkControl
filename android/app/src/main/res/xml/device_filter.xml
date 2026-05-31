@@ -1,0 +1,5 @@
+<resources>
+    <usb-device vendor-id="6790" />  <!-- CH340  -->
+    <usb-device vendor-id="1027" />  <!-- FTDI   -->
+    <usb-device vendor-id="4292" />  <!-- CP210x -->
+</resources>

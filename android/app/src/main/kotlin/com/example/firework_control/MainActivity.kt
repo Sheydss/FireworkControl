@@ -1,0 +1,5 @@
+package com.example.firework_control
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
